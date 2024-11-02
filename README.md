@@ -1,2 +1,3 @@
 # odin-landing
-Project: Landing Page 
+
+Odin fundamentals project. Photos by NEOM on Unsplash.</a>
